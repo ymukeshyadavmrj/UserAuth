@@ -1,2 +1,0 @@
-# UserAuth
-Practice Mode
